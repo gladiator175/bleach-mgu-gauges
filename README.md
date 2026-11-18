@@ -2,8 +2,8 @@
 
 Hollow Mask is the first design concept for this standalone BMW G30 cluster project.
 
-![Hollow Mask cluster concept with Ichigo behind the MPH gauge, crimson stripes in the numerals, and bone-white fang-shaped gauge bars](hollow-mask-preview.webp)
+![Hollow Mask cluster with thin white gauges, Ichigo behind the MPH readout, and a hanging Soul Reaper badge beside Zangetsu](hollow-mask-preview.webp)
 
-Ichigo's mask enters the MPH area from the center. Crimson slashes run through the speed and RPM numerals, while bone-white ridges and fang-shaped ticks frame both gauges. Smaller crimson inlays carry the same design into the fuel and temperature bars.
+The design pairs thin white gauge lines with a broken Hollow mask charm on the upper RPM rail. Zangetsu sits beneath the RPM readout with its black chain hanging from the pommel. The olive-gray Substitute Soul Reaper badge hangs beside it on a short braided cord.
 
-This repository currently contains a static design preview. The displayed values are illustrative. An installable MGU Store app has yet to be built and tested.
+This repository contains a static mockup with illustrative gauge values. The design is awaiting implementation as an MGU Store app.
