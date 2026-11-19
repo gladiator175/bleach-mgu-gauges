@@ -1,8 +1,8 @@
 {
   "id": "bleach_hollow",
   "title": "Bleach Cluster",
-  "description": "Hollow Mask theme for the BMW G30 instrument cluster.",
-  "version": "0.1.0",
+  "description": "Hollow Mask and Hollow Ichigo themes for the BMW G30 instrument cluster.",
+  "version": "0.1.1",
   "vendor": "custom",
   "loggingId": "OABH",
   "iconGlyph": "CLU",
@@ -130,6 +130,10 @@
         [
           "hollow_mask",
           "Hollow Mask"
+        ],
+        [
+          "hollow_ichigo",
+          "Hollow Ichigo"
         ]
       ]
     },
